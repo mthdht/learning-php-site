@@ -1,6 +1,6 @@
 ---
 next:
-  text: 'Markdown'
+  text: 'Exercices: premiers pas avec PHP.'
   link: '/exercices/chapitre-1-premiers-pas-avec-php'
 ---
 
