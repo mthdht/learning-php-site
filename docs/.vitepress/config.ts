@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress';
 
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
-  lang: 'en-US',
-  title: 'VitePress',
+  lang: 'fr-FR',
+  title: 'Apprendre PHP',
   description: 'Vite & Vue powered static site generator.',
 
   themeConfig: {
@@ -31,5 +31,9 @@ export default defineConfig({
         ],
       },
     ],
+    docFooter: {
+      prev: 'Page précédente',
+      next: 'Page suivante'
+    }
   },
 });
