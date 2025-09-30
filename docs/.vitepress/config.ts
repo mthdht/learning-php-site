@@ -5,7 +5,7 @@ export default defineConfig({
   lang: 'fr-FR',
   title: 'Apprendre PHP',
   description: 'Vite & Vue powered static site generator.',
-  base: 'learning-php-site',
+  base: '/learning-php-site',
 
   themeConfig: {
     nav: [
