@@ -4,8 +4,8 @@ prev:
     link: '/module-2/chapitres/chapitre-9-le-protocole-http'
 
 next:
-  text: 'Chapitre 10: .'
-  link: '/module-2/exercices/chapitre-10'
+  text: 'Chapitre 10: Formulaires et PHP.'
+  link: '/module-2/chapitres/chapitre-10-formulaires-html-et-php'
 ---
 
 # Exercices - Chapitre 9 : Le protocole HTTP
