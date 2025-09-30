@@ -6,6 +6,8 @@ prev:
 next:
   text: 'Module 3: .'
   link: '/module-3/introduction'
+
+sidebar: false
 ---
 
 # Module 2 : PHP Web & Formulaires
