@@ -4,8 +4,8 @@ prev:
     link: '/module-1/chapitres/chapitre-1-premiers-pas-avec-php'
 
 next:
-  text: 'Module 1: Conclusion'
-  link: '/module-1/conclusion'
+  text: 'Chapitre 8: Gestion des fichiers'
+  link: '/module-1/chapitres/chapitre-8-gestion-des-fichiers'
 ---
 
 # Exercices - Chapitre 7: Chaînes de caractères

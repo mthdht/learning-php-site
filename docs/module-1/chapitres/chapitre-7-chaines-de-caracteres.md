@@ -1,10 +1,10 @@
 ---
 prev: 
-    text: 'Exercices: Les tableaux'
+    text: 'Exercices: Les fonctions'
     link: '/module-1/exercices/chapitre-6-les-fonctions'
 
 next:
-  text: 'Exercices: Les fonctions'
+  text: 'Exercices: Chaines de caractères'
   link: '/module-1/exercices/chapitre-7-chaines-de-caracteres'
 ---
 

@@ -12,6 +12,7 @@ export default defineConfig({
       { 
         text: 'Modules PHP', 
         items: [
+          { text: 'Programme complet', link: '/programme'},
           { text: 'Module 1: PHP fondamentaux', link: '/module-1/introduction' },
           { text: 'Module 2: PHP Web et formulaires', link: '/module-2/introduction' },
           { text: 'Module 3: PHP fondamentaux', link: '/module-1/introduction' },
@@ -30,8 +31,7 @@ export default defineConfig({
       // ...
     ],
 
-    sidebar: {
-      '/module-1/': [
+    sidebar: [
         {
           text: 'Programme',
           link: '/programme'
@@ -73,6 +73,10 @@ export default defineConfig({
               link: '/module-1/chapitres/chapitre-7-chaines-de-caracteres'
             },
             {
+              text: 'Conclusion.',
+              link: '/module-1/conclusion'
+            },
+            {
               text: 'exercices',
               collapsed: true,
               items: [
@@ -106,14 +110,9 @@ export default defineConfig({
                 },
               ]
             },
-            {
-              text: 'Conclusion.',
-              link: '/module-1/conclusion'
-            },
           ],
         },
-      ]
-    },
+    ],
     docFooter: {
       prev: 'Page précédente',
       next: 'Page suivante'
