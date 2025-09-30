@@ -1,14 +1,14 @@
 ---
 prev: 
     text: 'Exercices: Premiers pas avec PHP'
-    link: '/exercices/chapitre-1-premiers-pas-avec-php'
+    link: '/module-1/exercices/chapitre-1-premiers-pas-avec-php'
 
 next:
   text: 'Exercices: Les variables et types de données.'
-  link: '/exercices/chapitre-2-les-variables-et-types-de-donnees'
+  link: '/module-1/exercices/chapitre-2-les-variables-et-types-de-donnees'
 ---
 
-# Chapitre 2 : Variables et types de données
+# Chapitre 2: Les variables et types de données.
 
 ## 📋 Prérequis
 - Avoir un environnement PHP fonctionnel

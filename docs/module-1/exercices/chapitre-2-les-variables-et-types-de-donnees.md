@@ -1,16 +1,16 @@
 ---
 prev: 
     text: 'Chapitre 2: Les variables et types de données.'
-    link: '/chapitres/chapitre-1-premiers-pas-avec-php'
+    link: '/module-1/chapitres/chapitre-1-premiers-pas-avec-php'
 
 next:
   text: 'Chapitre 3: Opérateurs et expressions'
-  link: '/chapitres/chapitre-3-operateurs-et-expressions'
+  link: '/module-1/chapitres/chapitre-3-operateurs-et-expressions'
 ---
 
-## 📝 Chapitre 2 : Variables et types de données
+# Exercices - Chapitre 2 : Variables et types de données
 
-### Exercice 2.1 : Calculatrice simple
+## Exercice 2.1 : Calculatrice simple
 ```php
 <?php
 $a = 10;
@@ -24,7 +24,7 @@ $b = 3;
 
 ---
 
-### Exercice 2.2 : Informations personnelles
+## xercice 2.2 : Informations personnelles
 ```php
 <?php
 // Crée 4 variables : prénom, nom, âge, ville
@@ -34,7 +34,7 @@ $b = 3;
 
 ---
 
-### Exercice 2.3 : Conversions
+## Exercice 2.3 : Conversions
 ```php
 <?php
 $texte = "250";
@@ -45,7 +45,7 @@ $texte = "250";
 
 ---
 
-### Exercice 2.4 : Constantes
+## Exercice 2.4 : Constantes
 ```php
 <?php
 // Crée 3 constantes pour un site e-commerce :

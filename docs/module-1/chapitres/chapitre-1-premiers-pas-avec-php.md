@@ -1,11 +1,13 @@
 ---
+prev: 
+    text: 'Module 1: Introduction'
+    link: '/module-1/introduction'
 next:
   text: 'Exercices: premiers pas avec PHP.'
-  link: '/exercices/chapitre-1-premiers-pas-avec-php'
+  link: '/module-1/exercices/chapitre-1-premiers-pas-avec-php'
 ---
 
-
-# Chapitre 1 : Premier pas avec PHP
+# Chapitre 1: Premiers pas avec PHP
 
 ## 📋 Prérequis
 - Aucun ! On part vraiment de zéro
