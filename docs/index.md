@@ -10,6 +10,6 @@ hero:
       text: Get Started
       link: /example
     - theme: alt
-      text: View on GitHub
+      text: View on GitHub bis
       link: https://github.com/vuejs/vitepress
 ---
