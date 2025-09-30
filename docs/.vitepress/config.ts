@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress';
 export default defineConfig({
   lang: 'fr-FR',
   title: 'Apprendre PHP',
-  description: 'Vite & Vue powered static site generator.',
+  description: 'Decouvre et apprend le PHP simplement.',
   base: '/learning-php-site',
 
   themeConfig: {
@@ -12,9 +12,9 @@ export default defineConfig({
       { 
         text: 'Modules PHP', 
         items: [
-          { text: 'Module 1: PHP fondamentaux', link: '/Module-1/introduction' },
-          { text: 'Module 2: PHP Web et formulaires', link: '/Module-2/introduction' },
-          { text: 'Module 3: PHP fondamentaux', link: '/Module-1/introduction' },
+          { text: 'Module 1: PHP fondamentaux', link: '/module-1/introduction' },
+          { text: 'Module 2: PHP Web et formulaires', link: '/module-2/introduction' },
+          { text: 'Module 3: PHP fondamentaux', link: '/module-1/introduction' },
         ]
       },
 
