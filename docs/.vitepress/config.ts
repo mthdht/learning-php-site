@@ -144,7 +144,7 @@ export default defineConfig({
             },
             {
               text: 'Sessions et cookies.',
-              link: '/module-2/chapitres/chapitre-11-sessions-et-cookie'
+              link: '/module-2/chapitres/chapitre-11-sessions-et-cookies'
             },
             {
               text: 'Inclusions et organisation.',
